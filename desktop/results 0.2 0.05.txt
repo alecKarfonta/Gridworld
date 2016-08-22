@@ -1,0 +1,425 @@
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,17,0.2,0.05,20015
+Constant E,Cliff,17,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,31,0.2,0.05,20015
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,19,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,31,0.2,0.05,20015
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,19,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,11,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,15,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Cliff,19,0.2,0.05,20015
+Constant E,Cliff,13,0.2,0.05,20015
+Constant E,Barrier,13,0.2,0.05,20015
+Constant E,Barrier,42,0.2,0.05,20015
+Constant E,Barrier,31,0.2,0.05,20015
+Constant E,Barrier,40,0.2,0.05,20015
+Constant E,Barrier,24,0.2,0.05,20015
+Constant E,Barrier,100,0.2,0.05,20015
+Constant E,Barrier,24,0.2,0.05,20015
+Constant E,Barrier,33,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,33,0.2,0.05,20015
+Constant E,Barrier,17,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,33,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,60,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,30,0.2,0.05,20015
+Constant E,Barrier,13,0.2,0.05,20015
+Constant E,Barrier,28,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,30,0.2,0.05,20015
+Constant E,Barrier,18,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,53,0.2,0.05,20015
+Constant E,Barrier,24,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,15,0.2,0.05,20015
+Constant E,Barrier,52,0.2,0.05,20015
+Constant E,Barrier,56,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,26,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Barrier,18,0.2,0.05,20015
+Constant E,Barrier,52,0.2,0.05,20015
+Constant E,Barrier,16,0.2,0.05,20015
+Constant E,Narrow Pass,16,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,16,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,16,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,17,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Constant E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,17,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,17,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,17,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,17,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,11,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,15,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Cliff,13,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,26,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,18,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,26,0.2,0.05,20015
+Decaying E,Barrier,26,0.2,0.05,20015
+Decaying E,Barrier,18,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,26,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,18,0.2,0.05,20015
+Decaying E,Barrier,26,0.2,0.05,20015
+Decaying E,Barrier,22,0.2,0.05,20015
+Decaying E,Barrier,18,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,26,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,18,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Barrier,24,0.2,0.05,20015
+Decaying E,Barrier,16,0.2,0.05,20015
+Decaying E,Narrow Pass,17,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,17,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,17,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,17,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Decaying E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,11,0.2,0.05,20015
+Truncated Sine E,Cliff,11,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,11,0.2,0.05,20015
+Truncated Sine E,Cliff,17,0.2,0.05,20015
+Truncated Sine E,Cliff,17,0.2,0.05,20015
+Truncated Sine E,Cliff,17,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,11,0.2,0.05,20015
+Truncated Sine E,Cliff,11,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,13,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Cliff,11,0.2,0.05,20015
+Truncated Sine E,Cliff,15,0.2,0.05,20015
+Truncated Sine E,Barrier,18,0.2,0.05,20015
+Truncated Sine E,Barrier,18,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,24,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,26,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,24,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,24,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,26,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,24,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,18,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,24,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,16,0.2,0.05,20015
+Truncated Sine E,Barrier,26,0.2,0.05,20015
+Truncated Sine E,Barrier,18,0.2,0.05,20015
+Truncated Sine E,Barrier,26,0.2,0.05,20015
+Truncated Sine E,Barrier,24,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,17,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Truncated Sine E,Narrow Pass,13,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,17,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,17,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,15,0.2,0.05,20015
+Greedy,Cliff,13,0.2,0.05,20015
+Greedy,Cliff,11,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,18,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,26,0.2,0.05,20015
+Greedy,Barrier,28,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,18,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,26,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,26,0.2,0.05,20015
+Greedy,Barrier,26,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Barrier,26,0.2,0.05,20015
+Greedy,Barrier,24,0.2,0.05,20015
+Greedy,Barrier,16,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,17,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,30,0.2,0.05,20015
+Greedy,Narrow Pass,100,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,100,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,67,0.2,0.05,20015
+Greedy,Narrow Pass,24,0.2,0.05,20015
+Greedy,Narrow Pass,85,0.2,0.05,20015
+Greedy,Narrow Pass,49,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,29,0.2,0.05,20015
+Greedy,Narrow Pass,30,0.2,0.05,20015
+Greedy,Narrow Pass,31,0.2,0.05,20015
+Greedy,Narrow Pass,27,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,16,0.2,0.05,20015
+Greedy,Narrow Pass,22,0.2,0.05,20015
+Greedy,Narrow Pass,36,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,36,0.2,0.05,20015
+Greedy,Narrow Pass,100,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,13,0.2,0.05,20015
+Greedy,Narrow Pass,29,0.2,0.05,20015
