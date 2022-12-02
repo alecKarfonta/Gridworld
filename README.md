@@ -15,3 +15,9 @@ The program is writen in Java using the Libgdx game development framework for th
 using Eclipse to build and import as a Gradle project. There should a number of individual projects all starting with Gridworld. You will
 need at least Gridworld, Gridworld-core and Gridworld-desktop. The bulk of the code resides in Gridworld-core, and then the launcher for 
 running the interface on a desktop is in Gridworld-desktop. See tutorials on Libgdx for more information.
+
+Interface:
+https://www.youtube.com/watch?v=fvkCYeAMq6M
+
+Cliff example:
+https://www.youtube.com/watch?v=ppALjH0kYPE
